@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "309709169215",
+    "firebase_url": "https://scribble-arts.firebaseio.com",
+    "project_id": "scribble-arts",
+    "storage_bucket": "scribble-arts.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309709169215:android:8e3bc4a42db6ea3ab44e8a",
+        "android_client_info": {
+          "package_name": "com.example.scribble_arts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309709169215-ehm8hr2j5s3jqlbdmcu4ou97qosin9tc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBskmglAB4U-qQbhW7pusKGh6FldrASztY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309709169215-ehm8hr2j5s3jqlbdmcu4ou97qosin9tc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
